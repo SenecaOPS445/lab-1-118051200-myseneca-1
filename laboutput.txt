@@ -1,0 +1,51 @@
+test_0 (__main__.lab1a.test_0)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test for file creation: ./lab1a.py ... ok
+test_a (__main__.lab1a.test_a)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test for errors running: ./lab1a.py ... /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/subprocess.py:822: ResourceWarning: unclosed file <_io.TextIOWrapper name=3 encoding='UTF-8'>
+  _cleanup()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_a1 (__main__.lab1a.test_a1)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test for correct shebang line: ./lab1a.py ... ok
+test_b (__main__.lab1a.test_b)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test output for correct output "Hello world": ./lab1a.py ... ok
+test_0 (__main__.lab1b.test_0)
+[Lab 1] - [Investigation 4] - string objects & printing - Test for file creation: ./lab1b.py ... ok
+test_a (__main__.lab1b.test_a)
+[Lab 1] - [Investigation 4] - string objects & printing - Test for errors running: ./lab1b.py ... ok
+test_a1 (__main__.lab1b.test_a1)
+[Lab 1] - [Investigation 4] - string objects & printing - Test for correct shebang line: ./lab1b.py ... ok
+test_b (__main__.lab1b.test_b)
+[Lab 1] - [Investigation 4] - string objects & printing - Test for correct output "How old are you Isaac?": ./lab1b.py ... ok
+test_0 (__main__.lab1c.test_0)
+[Lab 1] - [Investigation 4] - integer objects & printing - Test for file creation: ./lab1c.py ... ok
+test_a (__main__.lab1c.test_a)
+[Lab 1] - [Investigation 4] - integer objects & printing - Test for errors running: ./lab1c.py ... ok
+test_a1 (__main__.lab1c.test_a1)
+[Lab 1] - [Investigation 4] - integer objects & printing - Test for correct shebang line: ./lab1c.py ... ok
+test_b (__main__.lab1c.test_b)
+[Lab 1] - [Investigation 4] - integer objects & printing - Test output for correct output "Isaac is 72 years old!": ./lab1c.py ... ok
+test_0 (__main__.lab1d.test_0)
+[Lab 1] - [Investigation 5] - math operators - Test for file creation: ./lab1d.py ... ok
+test_a (__main__.lab1d.test_a)
+[Lab 1] - [Investigation 5] - math operators - Test for errors running: ./lab1d.py ... ok
+test_a1 (__main__.lab1d.test_a1)
+[Lab 1] - [Investigation 5] - math operators - Test for correct shebang line: ./lab1d.py ... ok
+test_b (__main__.lab1d.test_b)
+[Lab 1] - [Investigation 5] - math operators - Test output for correct output "10 + 2 * 5 = 20": ./lab1d.py ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.169s
+
+OK
+OPS445 Lab Report - System Information for running ./CheckLab1.py
+=================================================================
+    User login name: ishtiak
+    Git Email: 156343244+118051200-myseneca@users.noreply.github.com
+    Linux system name: Ishtiaks-MacBook-Pro.local
+    Python executable: /opt/homebrew/opt/python@3.11/bin/python3.11
+    Python version:  3.11.7 (main, Dec  4 2023, 18:10:11) [Clang 15.0.0 (clang-1500.1.0.2.5)]
+    OS Platform: darwin
+    Working Directory: /Users/ishtiak/Desktop/ops/lab-1-118051200-myseneca-1
+    Start at: Fri Jun  7 01:46:46 2024
+=================================================================
